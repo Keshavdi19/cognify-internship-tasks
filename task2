@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inline CSS Example</title>
+</head>
+<body>
+
+    <h1 style="color: blue; font-size: 36px;">Welcome to Inline CSS Styling</h1>
+    
+    <p style="color: white; background-color: navy; font-size: 18px;">
+        This paragraph uses inline CSS to apply font color, size, and background color.
+    </p>
+    
+    <p style="color: green; font-size: 16px;">
+        You can experiment by changing the values of these styles directly within the HTML.
+    </p>
+
+</body>
+</html>
